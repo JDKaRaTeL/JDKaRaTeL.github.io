@@ -48,3 +48,17 @@ body{
 	height:200px;
 	width:350px;
 }
+h1{
+	text-align:center;
+}
+.p1{
+	font:20px solid;
+}
+.img5{
+	height:350px;
+	width:350px;
+}
+.img6{
+	height:350px;
+	width:700px;
+}
